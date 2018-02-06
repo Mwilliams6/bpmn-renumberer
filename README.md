@@ -1,7 +1,7 @@
 # BPMN Fiddle
 BPMN Fiddle is a self-contained spring boot application that helps you to renumber and tidy BPMN maps for AFMS.
 
-   1. Run the app
+   1. Run the app (mvnw.cmd spring-boot:run)
    2. set the first number to increase
    3. set the amount to increase by
    4. select file
