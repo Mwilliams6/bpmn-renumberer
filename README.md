@@ -1,3 +1,5 @@
+v.02 - Added negative number *increments*
+
 # BPMN Fiddle
 BPMN Fiddle is a self-contained spring boot application that helps you to renumber and tidy BPMN maps for AFMS.
 
